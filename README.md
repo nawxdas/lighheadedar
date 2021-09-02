@@ -1,2 +1,0 @@
-# lighheadedar
-Begin app
